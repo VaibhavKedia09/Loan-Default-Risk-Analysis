@@ -30,9 +30,9 @@ End-to-end analysis using SQL and Power BI to identify key drivers of loan defau
 
 ## 🔷 Business Impact
 
-* High-risk segments contribute disproportionately to losses
-* Loan size amplifies financial exposure
-* Portfolio risk is concentrated, not evenly distributed
+* High-risk segments contribute disproportionately to losses.
+* Loan size amplifies financial exposure.
+* Portfolio risk is concentrated, not evenly distributed.
 
 ---
 
