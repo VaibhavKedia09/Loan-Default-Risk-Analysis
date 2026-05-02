@@ -14,7 +14,7 @@ End-to-end analysis using SQL and Power BI to identify key drivers of loan defau
 
 ## 🔷 Dashboard Preview
 
-![Dashboard](Power BI/Dashboard preview.png)
+![Dashboard](Power BI/Dashboard%20preview.png)
 
 ---
 
@@ -40,5 +40,12 @@ End-to-end analysis using SQL and Power BI to identify key drivers of loan defau
 
 * SQL
 * Power BI
+
+---
+## 🔷 Conclusion
+
+The analysis highlights that default risk is concentrated in specific borrower segments, particularly where low income, low credit score, and high loan amounts intersect.
+
+These insights enable better risk control, improved lending strategies, and more balanced portfolio management.
 
 ---
