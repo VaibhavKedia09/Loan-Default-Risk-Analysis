@@ -14,7 +14,7 @@ End-to-end analysis using SQL and Power BI to identify key drivers of loan defau
 
 ## 🔷 Dashboard Preview
 
-![Dashboard](Power BI/Dashboard_preview.png)
+![Dashboard](Power BI/Dashboard preview.png)
 
 ---
 
